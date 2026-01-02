@@ -1,0 +1,20 @@
+name1 = "  ajay singh  "
+# name1 = "2.3"
+print(name1.upper())
+
+print(name1.capitalize())
+print(name1.startswith("a"))
+print(name1.endswith("y"))
+print(name1.find("in"))
+# print(name1.index("in"))
+print(name1.isalpha())
+print(name1.isdigit())
+print(name1.isdecimal())
+print(name1.islower())
+print(name1.isspace())
+print(name1.title())
+print(name1.strip())
+print(name1.rstrip())
+print(name1.lstrip())
+print(name1.split("a"))
+print(name1.replace("in","of"))
